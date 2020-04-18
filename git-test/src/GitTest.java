@@ -10,5 +10,6 @@ public class GitTest {
 
     public void test(){
         System.out.println("hello");
+        System.out.println("ok");
     }
 }
